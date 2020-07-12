@@ -1,0 +1,13 @@
+.DS_Store
+.project
+.settings
+.classpath
+target
+*.log
+logs
+bin
+*.pdb
+*.iml
+.idea
+.mymetadata
+MANIFEST.MF
